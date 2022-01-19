@@ -1,2 +1,2 @@
-# WIP
-Visualize car break-ins in San Francisco
+# (WIP)
+When a joke between friends turns into a data-driven approach to analyzing theft in San Francisco...
