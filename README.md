@@ -31,5 +31,6 @@ $ jupyter nbextension enable --py --sys-prefix gmaps
 More details can be found *[here](https://jupyter-gmaps.readthedocs.io/en/latest/install.html)*.
 Note: As of 2018, Gmaps is no longer free. You need to put in your billing but you get a free $300 credit. Up to you to use gmaps or another API thats free such as OpenStreetMaps.
 
-# Result and Analysis
+# Result
 <img src="/Figures/breakins2.png"/>
+The majority of vehicle break-ins occur in popular tourist areas like Fisherman's Wharf, Lombard Street, Japantown. Van Ness Ave is also a large street full of retail and shops. This makes it a prime place for thieves to steal from unsuspecting shoppers and tourists. Even Unions Square, a high end retail center, is a vulnerable target. The brazen and coordinated smash-and-grab ring that made headlines in November 2021 is proof of that.
