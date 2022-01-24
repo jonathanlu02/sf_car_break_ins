@@ -33,4 +33,4 @@ Note: As of 2018, Gmaps is no longer free. You need to put in your billing but y
 
 # Result
 <img src="/Figures/breakins2.png"/>
-The majority of vehicle break-ins occur in popular tourist areas like Fisherman's Wharf, Lombard Street, Japantown. Van Ness Ave (blue line on map) is also a large street full of retail and shops, with plenty of tourist hotspots nearby. This makes it a prime place for thieves to steal from unsuspecting shoppers and tourists. Even Unions Square, a high-end retail location, is a vulnerable target. The brazen and coordinated smash-and-grab ring that made headlines in November 2021 is proof of that.
+The majority of vehicle break-ins occur in popular tourist areas like Fisherman's Wharf, Lombard Street, Japantown. Van Ness Ave (blue line on map) is also a large street full of retail and shops, with plenty of tourist hotspots nearby. This makes it a prime place for thieves to steal from unsuspecting shoppers and tourists. Even Union Square, a high-end retail location, is a vulnerable target. The brazen and coordinated smash-and-grab ring that made headlines in November 2021 is proof of that.
