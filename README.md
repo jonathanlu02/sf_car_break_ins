@@ -30,3 +30,6 @@ $ jupyter nbextension enable --py --sys-prefix gmaps
 
 More details can be found *[here](https://jupyter-gmaps.readthedocs.io/en/latest/install.html)*.
 Note: As of 2018, Gmaps is no longer free. You need to put in your billing but you get a free $300 credit. Up to you to use gmaps or another API thats free such as OpenStreetMaps.
+
+# Result and Analysis
+<img src="/Figures/breakins2.png"/>
