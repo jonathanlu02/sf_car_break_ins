@@ -1,5 +1,5 @@
 # Analyzing Car Break-ins in San Francisco
-When a joke between friends turns into a data-driven approach to analyzing theft in San Francisco...
+Data-driven approach to analyzing theft in San Francisco.
 
 # Instructions
 ## Step 1 - API:
