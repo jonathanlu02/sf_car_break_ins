@@ -1,5 +1,5 @@
 # Analyzing Car Break-ins in San Francisco
-Data-driven approach to analyzing theft in San Francisco.
+Data-driven approach to analyzing theft in San Francisco. Why has their been an increasing amount of car break-ins in San Francisco? Where can police allocate their resources to better find the perpetrators? And which spots should tourists take caution in?
 
 # Instructions
 ## Step 1 - API:
